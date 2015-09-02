@@ -7,6 +7,7 @@ public class GITPocHelloWorkd {
 		System.out.println("test 2");
 		System.out.println("pushing just into master");
 		System.out.println("changed in workspace");
+		System.out.println("Changed in master);
 
 	}
 
