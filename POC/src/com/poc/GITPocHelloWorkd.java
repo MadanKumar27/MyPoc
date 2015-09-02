@@ -8,6 +8,7 @@ public class GITPocHelloWorkd {
 		System.out.println("pushing just into master");
 		System.out.println("changed in workspace");
 		System.out.println("Changed in master");
+		System.out.println("testing on how to get the latest file");
 
 	}
 
