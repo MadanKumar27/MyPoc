@@ -6,6 +6,7 @@ public class GITPocHelloWorkd {
 		System.out.println("hai this this is a git Test");
 		System.out.println("test 2");
 		System.out.println("pushing just into master");
+		System.out.println("Changed in master);
 
 	}
 
